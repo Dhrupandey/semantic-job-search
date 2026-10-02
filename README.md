@@ -2,7 +2,7 @@
 
 Search job postings by meaning instead of exact keywords. Describe the kind of work you want in plain language and the app returns the closest matching jobs.
 
-**Live demo:** [ADD VERCEL URL AFTER DEPLOYING]
+**Live demo:** (https://semantic-job-search-beta.vercel.app/)
 
 ## How it works
 
