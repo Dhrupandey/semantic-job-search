@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Frontend Engineer",
+    "company": "Sample Co",
+    "location": "Bengaluru, India",
+    "description": "Build responsive web interfaces with React and TypeScript. Work with designers to ship accessible, fast user experiences and write component tests."
+  },
+  {
+    "title": "Machine Learning Engineer",
+    "company": "Sample Co",
+    "location": "Remote",
+    "description": "Train and deploy deep learning models for text classification. Own the pipeline from data cleaning to serving models behind REST APIs."
+  },
+  {
+    "title": "Backend Developer",
+    "company": "Sample Co",
+    "location": "Pune, India",
+    "description": "Design Node.js and Express services backed by PostgreSQL. Optimise slow queries, design schemas and build reliable REST APIs."
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Sample Co",
+    "location": "Mumbai, India",
+    "description": "Turn raw business data into dashboards and weekly reports using SQL and Python. Present findings to non-technical stakeholders."
+  },
+  {
+    "title": "DevOps Engineer",
+    "company": "Sample Co",
+    "location": "Hyderabad, India",
+    "description": "Manage cloud infrastructure on AWS, build CI/CD pipelines and monitor uptime. Automate deployments with containers and infrastructure as code."
+  },
+  {
+    "title": "Recruiter",
+    "company": "Sample Co",
+    "location": "Delhi, India",
+    "description": "Source and screen candidates for engineering roles, coordinate interviews and keep hiring managers updated on pipeline progress."
+  }
+]
